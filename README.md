@@ -1,11 +1,11 @@
 # Virtual-Assistant-Bot
 VAB is a fully built python artificial intelligence. VAB is customized towards the user, by activating through presettable wake words. 
 
-Functions of VAB include: 
-getting the current date and time,
-output audio response
-carrying out Wikipedia searchs on individuals, 
-engaging in conversations. 
+Functions of VAB include: <br /> 
+getting the current date and time, <br /> 
+output audio response, <br />
+carrying out Wikipedia searchs on individuals, <br />
+engaging in conversations. <br />
 
 Due to the specific recommendations needed for VAB to carry out tasks below is a list of prerequisite libraries to be pipped into the integrated development environment, where the user desires to run VAB in order to have the best experience. 
 
