@@ -10,7 +10,7 @@ engaging in conversations.
 Due to the specific recommendations needed for VAB to carry out tasks below is a list of prerequisite libraries to be pipped into the integrated development environment, where the user desires to run VAB in order to have the best experience. 
 
 Python third party dependencies to install for full optimization of VAB:
-pip install pyaudio
+pip install pyaudio<br />
 pip intsall gTTS
 pip install maps
 pip install tracker
