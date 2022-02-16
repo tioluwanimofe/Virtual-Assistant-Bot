@@ -9,7 +9,7 @@ engaging in conversations. <br />
 
 Due to the specific recommendations needed for V.A.B. to carry out tasks, below is a list of prerequisite third party Python libraries to be pipped into the integrated development environment the user desires to run V.A.B. on in order to have the best experience. 
 
-<u>Python third party modules to install for full optimization of V.A.B.:</u><br />
+<str>Python third party modules to install for full optimization of V.A.B.:</str><br />
 pip install pyaudio<br />
 pip intsall gTTS<br />
 pip install maps<br />
