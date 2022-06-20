@@ -21,4 +21,4 @@ pip install os<br />
 pip install SpeechRecognition<br />
 
 
-From V.A.B., I look forward to meeting you… :)
+From V.A.B., I look forward to meeting you… :-)
